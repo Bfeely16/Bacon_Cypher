@@ -1,4 +1,5 @@
 <h1> Bacon Cipher </h1>
+
 [Mechanics](mechanics.md)
 
 [Math](math.md)
